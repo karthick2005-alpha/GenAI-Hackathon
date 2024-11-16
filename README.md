@@ -1,4 +1,6 @@
+
 Hi, I'm @karthick2005-alpha
+
 👀 I’m interested in Mechanical engineering, Machine Learning, and Data Science.
 
 🌱 I’m currently learning Deep Learning, Natural Language Processing, and Computer Vision.
